@@ -36,7 +36,7 @@ aller sur google, cliquer sur le logo de l'extension (le truc en forme de puzzle
 
 activer en haut à droite le mode développeur
 
-cliquer sur « load unpacked extension » (charger une extension décompressée) 
+cliquer sur « load unpacked extension » (charger une extension non empactée) 
 
 et sélectionner le fichier « Neoblocker » que l'on a extrait du fichier principal de Neoblocker (ne pas sélectionner le fichier readme) 
 
