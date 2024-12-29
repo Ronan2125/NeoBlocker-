@@ -1,0 +1,3 @@
+.ant-modal-root:has(.ant-modal-content[style*="wallet-bg-DuIh0Vjg.png"]) {
+  display: none !important;
+}
