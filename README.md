@@ -41,5 +41,3 @@ cliquer sur « load unpacked extension » (charger une extension non empactée)
 et sélectionner le fichier « Neoblocker » que l'on a extrait du fichier principal de Neoblocker (ne pas sélectionner le fichier readme) 
 
 c'est vraiment simple non ?
-
-Traduit avec DeepL.com (version gratuite)
